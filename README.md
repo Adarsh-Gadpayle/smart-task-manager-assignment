@@ -46,9 +46,9 @@ The frontend expects the backend at `http://localhost:5000/api`.
 
 ## Demo users
 The backend starts with:
-- Alice / alice@example.com
-- Bob / bob@example.com
-- Charlie / charlie@example.com
+- Darshana / 10darshanazade@2004 / Darshana@2004
+- Ayush Dhole / darkplayindia@2003 / Ayush@2003
+- piyush Rangari / piyushrangari005@gmail.com / Pass@1234
 
 Any email/password combination can log in for an existing user. Registration creates a new user.
 
